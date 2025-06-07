@@ -1,5 +1,5 @@
 ---
-title: "Custom Dice and Cube"
+title: "Ex of my past proj"
 excerpt: "Fusion designed aluminum cube and dice milled with a CNC."
 header:
   teaser: /assets/img/AleaGoodPic.jpg
