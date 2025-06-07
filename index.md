@@ -4,7 +4,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.6"
-  overlay_image: /assets/img/Stockphoto2.jpg
+  overlay_image: /assets/img/bgroundpic.jpg
   actions:
     - label: "My Projects"
       url: "/portfolio/"
