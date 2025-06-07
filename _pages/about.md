@@ -19,4 +19,4 @@ Jared Cullison is a rising freshman at Texas A&M University from Colorado. With 
  
 * As an Eagle Scout, Jared loves being active in the outdoors. Jared also was a varsity goalkeeper for Holy Family's state championship winning soccer team!
 
-<img src="/assets/img/Indv Lockheed Photo.jpg" alt="Sam Cullison" style="width:200px;"/>
+<img src="/assets/img/j_gradthumb.jpg" alt="Jared Cullison" style="width:200px;"/>
