@@ -1,6 +1,6 @@
 ---
 title: "Pattern Detector Program"
-excerpt: "Python Program which generates subsequent numbers in a pattenr"
+excerpt: "Leavin this one cuz its j cool"
 header:
   teaser: /assets/img/Example_Patterns.jpg
    
