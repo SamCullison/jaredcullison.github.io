@@ -11,10 +11,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sam Cullison"
+title                    : "Jared Cullison"
 title_separator          : "-"
-subtitle                 : "Vanderbilt Chemical Engineering Junior"
-name                     : &name "Sam Cullison" # &name is a YAML anchor which can be *referenced later
+subtitle                 : "Texas A&M Engineering Freshman"
+name                     : &name "Jared Cullison" # &name is a YAML anchor which can be *referenced later
 description              : &description "Example website for class "
 url                      : https://samcullison.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -97,9 +97,9 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/img/Indv Lockheed Photo.jpg"
-  bio              : "Chemical Engineer with passion for drug development"
-  location         : "Nashville, TN"
+  avatar           : "/assets/img/jthumb.jpg"
+  bio              : "Freshman with deep interest in STEM"
+  location         : "Broomfield, CO"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
